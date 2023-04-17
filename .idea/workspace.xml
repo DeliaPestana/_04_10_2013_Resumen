@@ -4,20 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c4706141-aa3c-4725-aa88-609b12af56d3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_04_10_2013_Resumen.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MainEstructurasControl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hedima/presentacion/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hedima/presentacion/MainOperaciones.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hedima/presentacion/OperadoresLogicos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hedima/presentacion/ProbarClaseString.java" afterDir="false" />
-    </list>
+    <list default="true" id="c4706141-aa3c-4725-aa88-609b12af56d3" name="Changes" comment="Subir a las 21 horas" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -106,6 +93,18 @@
       <option name="presentableId" value="Default" />
       <updated>1681207035835</updated>
     </task>
+    <task id="LOCAL-00001" summary="Subir a las 21 horas">
+      <created>1681767938308</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1681767938308</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Subir a las 21 horas" />
+    <option name="LAST_COMMIT_MESSAGE" value="Subir a las 21 horas" />
   </component>
 </project>
